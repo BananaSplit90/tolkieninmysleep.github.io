@@ -7,3 +7,7 @@ This repository is built step by step in the tutorial.
 New changes
 More new changes
 Third new changes
+
+GitHub new changes  
+GitHub testing new line  
+With two spaces
